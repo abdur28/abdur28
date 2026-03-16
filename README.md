@@ -1,5 +1,21 @@
 # 💫 About Me:
-⚡ Building cutting-edge web applications with React, Node.js and Three.js while dreaming in JavaScript<br>🏗️ Merging worlds as a Mechatronics Engineer who writes code - where hardware meets software<br>🌍 Speaking multiple languages (English, Russian, Arabic, Hausa) and even more programming languages<br>🚀 Currently exploring the depths of web/mobile experiences and immersive digital interfaces<br>💻 Ask me about fullstack development, real estate tech, or how to create stunning interactive web experiences
+⚡ Full stack developer shipping web, mobile, and desktop apps — Next.js, React Native (Expo), and Tauri<br>
+🏗️ Mechatronics Engineer by training, software engineer by obsession — where hardware meets software<br>
+🌍 Multilingual (English, Russian, Arabic, Hausa) building multilingual products to match<br>
+🚀 Currently building across fintech, real estate, e-commerce, and healthcare<br>
+💻 Ask me about fullstack development, real estate tech, cross-platform apps, or shipping products solo
+ 
+## 🔥 What I've Built
+ 
+| Project | What It Is | Stack |
+|---------|-----------|-------|
+| **[Residity](https://residity.com)** | Real estate platform — 1K+ users, 1K+ properties, 100+ agents | Next.js, Expo, Firebase |
+| **[Bytesphere](https://bytesphere.dev)** | Tech Consultation Agency | Next.js, TailwindCSS |
+| **[Juggernaut](https://juggernautind.com)** | Industrial corporate website for a Nigerian conglomerate | Next.js, TailwindCSS |
+| **[AdamsPay](https://adams-pay.vercel.app)** | Global money transfers — 180+ countries, biometric auth | Next.js, Expo, Firebase |
+| **[HoodHub](https://hoodhub.vercel.app)** | Fashion & lifestyle services — booking, i18n (EN/RU) | Next.js, TailwindCSS |
+| **[Hoodskool](https://hoodskool.vercel.app)** | Streetwear e-commerce — cart, checkout, reviews, inventory | Next.js, TailwindCSS |
+| **CEMIS** | Hospital management desktop app — patient records, i18n | Tauri, React, TypeScript |
 
 
 ## 🌐 Socials:
