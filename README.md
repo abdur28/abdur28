@@ -12,7 +12,7 @@
 | **[Residity](https://residity.com)** | Real estate platform — 1K+ users, 1K+ properties, 100+ agents | Next.js, Expo, Firebase |
 | **[Bytesphere](https://bytesphere.dev)** | Tech Consultation Agency | Next.js, TailwindCSS |
 | **[Juggernaut](https://juggernautind.com)** | Industrial corporate website for a Nigerian conglomerate | Next.js, TailwindCSS |
-| **[AdamsPay](https://adams-pay.vercel.app)** | Global money transfers — 180+ countries, biometric auth | Next.js, Expo, Firebase |
+| **[AdamsPay](https://adams-pay.com)** | Global money transfers — 180+ countries, biometric auth | Next.js, Expo, Firebase |
 | **[HoodHub](https://hoodhub.vercel.app)** | Fashion & lifestyle services — booking, i18n (EN/RU) | Next.js, TailwindCSS |
 | **[Hoodskool](https://hoodskool.vercel.app)** | Streetwear e-commerce — cart, checkout, reviews, inventory | Next.js, TailwindCSS |
 | **CEMIS** | Hospital management desktop app — patient records, i18n | Tauri, React, TypeScript |
